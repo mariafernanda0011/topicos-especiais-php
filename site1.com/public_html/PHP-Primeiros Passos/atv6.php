@@ -18,7 +18,9 @@
 
     // Tentativa 2 
     for ($i = 0; $i <= 10; $i++) {
-        echo "<ul> <li>$i</li> </ul>";
+        echo "<ul> 
+            <li>$i</li> 
+        </ul>";
     };
 
 ?>
